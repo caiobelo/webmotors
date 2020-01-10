@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebMotors.Service/1.0.0": {
+        "dependencies": {
+          "WebMotors.Core": "1.0.0"
+        },
+        "runtime": {
+          "WebMotors.Service.dll": {}
+        }
+      },
+      "WebMotors.Core/1.0.0": {
+        "runtime": {
+          "WebMotors.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebMotors.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebMotors.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

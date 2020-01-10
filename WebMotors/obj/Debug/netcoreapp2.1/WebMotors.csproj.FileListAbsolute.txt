@@ -1,0 +1,13 @@
+C:\Users\caiorubelo\source\repos\WebMotors\obj\Debug\netcoreapp2.1\WebMotors.csprojAssemblyReference.cache
+C:\Users\caiorubelo\source\repos\WebMotors\obj\Debug\netcoreapp2.1\WebMotors.AssemblyInfoInputs.cache
+C:\Users\caiorubelo\source\repos\WebMotors\obj\Debug\netcoreapp2.1\WebMotors.AssemblyInfo.cs
+C:\Users\caiorubelo\source\repos\WebMotors\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\caiorubelo\source\repos\WebMotors\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\caiorubelo\source\repos\WebMotors\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\caiorubelo\source\repos\WebMotors\bin\Debug\netcoreapp2.1\WebMotors.deps.json
+C:\Users\caiorubelo\source\repos\WebMotors\bin\Debug\netcoreapp2.1\WebMotors.runtimeconfig.json
+C:\Users\caiorubelo\source\repos\WebMotors\bin\Debug\netcoreapp2.1\WebMotors.runtimeconfig.dev.json
+C:\Users\caiorubelo\source\repos\WebMotors\bin\Debug\netcoreapp2.1\WebMotors.dll
+C:\Users\caiorubelo\source\repos\WebMotors\bin\Debug\netcoreapp2.1\WebMotors.Core.dll
+C:\Users\caiorubelo\source\repos\WebMotors\bin\Debug\netcoreapp2.1\WebMotors.Core.pdb
+C:\Users\caiorubelo\source\repos\WebMotors\obj\Debug\netcoreapp2.1\WebMotors.csproj.CopyComplete

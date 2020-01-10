@@ -1,0 +1,3 @@
+C:\Users\caiorubelo\source\repos\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.csprojAssemblyReference.cache
+C:\Users\caiorubelo\source\repos\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.AssemblyInfoInputs.cache
+C:\Users\caiorubelo\source\repos\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.AssemblyInfo.cs

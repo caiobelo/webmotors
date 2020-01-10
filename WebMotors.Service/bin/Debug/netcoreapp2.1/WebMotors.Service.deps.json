@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "WebMotors.Service/1.0.0": {
+        "dependencies": {
+          "RestSharp": "106.10.0",
+          "WebMotors.Core": "1.0.0"
+        },
+        "runtime": {
+          "WebMotors.Service.dll": {}
+        }
+      },
+      "RestSharp/106.10.0": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.0.0.0",
+            "fileVersion": "106.10.0.0"
+          }
+        }
+      },
+      "WebMotors.Core/1.0.0": {
+        "runtime": {
+          "WebMotors.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebMotors.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestSharp/106.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l0GvhCjRfMmaxr09qvX0lnZeLStE426/dM4EraRfvwG3OJkl+fd5NY8ty9m+8DVxAdZqHymD+tlbYgapz5fkvg==",
+      "path": "restsharp/106.10.0",
+      "hashPath": "restsharp.106.10.0.nupkg.sha512"
+    },
+    "WebMotors.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
